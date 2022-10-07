@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sweetnandha
-- 👀 I’m interested in exporing new
+- 👀 I’m interested in exporing new things/thinks
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on development team
 - 📫 How to reach me sweetnandha.cse@gmail.com
